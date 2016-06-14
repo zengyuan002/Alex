@@ -872,7 +872,7 @@ input.search-form:hover {
 }
 
 .panel-heading.active{
-  background: #1f1f20;
+  background: #2d7da4;
 }
 
 .panel-heading.active .panel-title>a{
@@ -937,7 +937,7 @@ a.accordion-toggle  i{
 .nav-tabs>li.active>a:focus {
   border: 0;
   color:#fff;
-  background: #1f1f20;
+  background: #107986;
   position: relative;
 }
 
