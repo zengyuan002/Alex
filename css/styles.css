@@ -335,15 +335,6 @@ input.search-form:hover {
   font-size: 36px;
   line-height: 50px;
   color: #fff;
-  animation: blogname 2s ease-in-out infinite; 
-  -o-animation: blogname 2s ease-in-out infinite;
-  -ms-animation: blogname 2s ease-in-out infinite;
-  -moz-animation: blogname 2s ease-in-out infinite; 
-  -webkit-animation: blogname 2s ease-in-out infinite;
-}
-@keyframes blogname{0%{transform: scale(1) translate(0px,0px); text-shadow:0px 0px 1px #333;}
-		50%{transform: scale(1.01) translate(0px,-10px) scale(1.05); text-shadow:2px 2px 5px #333;}
-    		100%{transform: scale(1) translate(0px,0px); text-shadow:0px 0px 1px #333;}
 }
 .btn {
     color: rgba(255, 255, 255, 0.7);
