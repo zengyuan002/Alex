@@ -1666,6 +1666,7 @@ a.accordion-toggle  i{
 	#main-slider .carousel .slide-margin{margin-top: initial;}
 	.nav-position{position: absolute;left: 0;right: 0;z-index: 999;background: #3a3e40;}
 	.dola{display: none;}
+	.mgl{margin-left:0}
 }
 @media only screen and (max-width:360px ) {
 	.feature-wrap{margin-bottom: 10px;}
